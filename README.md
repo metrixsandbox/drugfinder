@@ -2,7 +2,7 @@ Interaction with RxNorm API.
 
 You can find the brand names of generic drugs with the first input box. If the spelling of the generic box is incorrect, use the second input box for suggestions.
 
-![photo](https://ibb.co/F0hLPH3)
+![photo](https://imgur.com/a/ZuoXHtG)
 
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
