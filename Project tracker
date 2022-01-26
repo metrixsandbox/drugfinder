@@ -1,0 +1,12 @@
+*change API to get better brand and generic data
+
+*import autocomplete library of drug names
+http://lhncbc.github.io/autocomplete-lhc/docs.html
+
+*add magnifying glass icon to search button
+
+*import some ui library for beautification
+
+*add validation for improper search results
+
+
